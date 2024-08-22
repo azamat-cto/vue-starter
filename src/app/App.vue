@@ -1,1 +1,3 @@
-<template>App</template>
+<template>
+    <div class="flex flex-col items-center justify-center h-screen">App</div>
+</template>
